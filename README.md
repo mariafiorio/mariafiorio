@@ -1,8 +1,10 @@
 ### Hi there, I'm Maria 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariafiorio&color=ff69b4&style=for-the-badge alt="Profile views" /> </p>
 
-- 🔭 I’m a Computer Science student
-- 🌱 I’m currently learning SQL, UX/UI and JavaScript.
+- 📖 I’m a Computer Science student, currently learning SQL, UX/UI and JavaScript.
+- 📫 Contact: mariaxfiorio@gmail.com
+  
+
 <div align="left">
   <a href="https://github.com/mariafiorio">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariafiorio&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/> -->
