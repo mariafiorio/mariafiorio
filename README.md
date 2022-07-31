@@ -1,7 +1,7 @@
 ### Hi there, I'm Maria 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariafiorio&color=ff69b4&style=for-the-badge alt="Profile views" /> </p>
 
-- 📖 I’m a Computer Science student, currently learning SQL, UX/UI and JavaScript.
+- 📖 I’m a Computer Science student, currently learning SQL, JavaScript and Python.
 - 📫 Contact: mariaxfiorio@gmail.com
   
 
