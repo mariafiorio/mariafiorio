@@ -1,7 +1,7 @@
 ### Hi there, I'm Maria 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariafiorio&color=ff69b4&style=for-the-badge alt="Profile views" /> </p>
 
-- 📖 I’m a Computer Science student, currently learning SQL, R and Python.
+- 📖 I’m a Computer Science student, currently learning SQL, C# and Python.
 
   
 
@@ -13,12 +13,12 @@
     </div>
   
   <a href="https://www.linkedin.com/in/maria-fiorio-84764217b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:mariaxfiorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   
 <!--
 **mariafiorio/mariafiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+    <a href = "mailto:mariaxfiorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
 - 🔭 I’m currently working on building a website for Mudando Fluxos, an NGO fighting against period poverty
 - 🌱 I’m currently learning SQL, UX/UI and JavaScript.
