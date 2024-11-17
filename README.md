@@ -1,7 +1,7 @@
 ### Hi there, I'm Maria 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariafiorio&color=ff69b4&style=for-the-badge alt="Profile views" /> </p>
 
-- 📖 Estudate de Ciência da Computação, atualmente aprendendo C#, TypeScript e Angular.
+- 📖 Estudante de Ciência da Computação, atualmente aprendendo C#, TypeScript e Angular.
 
   
 
